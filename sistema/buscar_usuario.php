@@ -5,7 +5,7 @@ if ($_SESSION['rol']!=1) {
 	header("location: ./");
 	// code...
 }
-include '../con.php';
+include '../con_nuevo.php';
 
 ?>
 

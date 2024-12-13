@@ -15,7 +15,7 @@ session_start();
 </head>
 	<?php
 		include "includes/header.php";
-		include "../con.php";
+		include "../con_nuevo.php";
 	?>
 
 <body>

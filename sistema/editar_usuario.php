@@ -6,7 +6,7 @@ if ($_SESSION['rol']!=1) {
     // code...
 }
 
-include "../con.php";
+include "../con_nuevo.php";
 
 $alert = '';
 

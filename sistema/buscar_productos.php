@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include '../con.php';
+include '../con_nuevo.php';
 
 ?>
 

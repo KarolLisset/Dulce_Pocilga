@@ -4,7 +4,7 @@ if ($_SESSION['rol'] != 1 && $_SESSION['rol'] != 2) {
 	header("location: ./");
 }
 
-include "../con.php";
+include "../con_nuevo.php";
 
 if (!empty($_POST)) {
 	$alert = '';

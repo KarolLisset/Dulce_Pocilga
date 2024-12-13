@@ -14,7 +14,7 @@ session_start();
 <body>
     <?php
         include "includes/header.php";
-        include "../con.php";
+        include "../con_nuevo.php";
 
         $nit = '';
         $nombreEmpresa = '';

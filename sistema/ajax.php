@@ -1,6 +1,6 @@
 <?php
 
-include'../con.php';
+include'../con_nuevo.php';
 
 session_start();
 

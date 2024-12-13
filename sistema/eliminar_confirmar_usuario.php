@@ -5,7 +5,7 @@ if ($_SESSION['rol'] != 1) {
     // code...
 }
 
-include "../con.php";
+include "../con_nuevo.php";
 if (!empty($_POST)) {
 
     // Se usa para tratar vulnerabilidades del sistema en inspeccionar elemento (value == 1)

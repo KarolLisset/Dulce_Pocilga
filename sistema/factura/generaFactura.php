@@ -10,7 +10,7 @@
 		header('location: ../');
 	}
 
-	include "../../con.php";
+	include "../../con_nuevo.php";
 	require_once '../pdf/vendor/autoload.php';
 	use Dompdf\Dompdf;
 
