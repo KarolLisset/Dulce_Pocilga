@@ -1,21 +1,21 @@
 # Dulce Pocilga 🐷☕
-¡Bienvenido a **Dulce Pocilga**, un proyecto web inspirado en un café temático de cerditos. Este sitio web fue diseñado para una empresa ficticia dónde se gestiona a nivel administrador los diferentes módulos del negocio:
+¡Bienvenido a **Dulce Pocilga**!, un proyecto web basado en un café temático de cerditos. Este sitio web fue diseñado para una empresa ficticia dónde se gestiona a nivel administrador los diferentes módulos del negocio:
   - Usuarios
   - Clientes
   - Proveedores
   - Productos
-  - Ventas
+  - Ventas -- GENERACIÓN DE PDF
     
 ## Características principales 🌟
 - **Página de inicio atractiva**: Con un carrusel dinámico.
 - **Módulo de facturación**: Sistema completo para registrar ventas y generar facturas.
-- **Sistema de navegación sencillo**: Menú intuitivo para explorar las diferentes secciones.
+- **Sistema de navegación**: Menú de las diferentes secciones.
 - **Uso de tecnologías modernas**: HTML, CSS, JavaScript, PHP, y MySQL.
 
 ## Tecnologías utilizadas 💻
 - **Frontend**:
-  - HTML5, CSS3, JavaScript
-  - Efectos visuales con CSS y animaciones
+  - HTML5, CSS, JavaScript
+  - Efectos visuales y animaciones
 - **Backend**:
   - PHP
   - MySQL para la base de datos
